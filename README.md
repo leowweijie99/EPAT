@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 # EPAT
-EPAT CI/CD tutorial
+EPAT CI/CD tutorial - Wei Jie
 =======
 # Reference
 
